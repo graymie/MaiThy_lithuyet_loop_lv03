@@ -24,8 +24,8 @@ vd:
 ### nguyên tắc:
 ![nguyentac2](http://www.nguyenvanquan7826.com/wp-content/uploads/2014/12/do-while.png)
 vd:(
-#include <stdio.h>
-int main(){
+/#include <stdio.h>
+ int main(){
     do {
         printf("khoi lenh duoc thuc hien\n");
     } while(5 > 8);
