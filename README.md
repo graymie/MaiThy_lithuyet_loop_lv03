@@ -24,14 +24,17 @@ vd:
 ### nguyên tắc:
 ![nguyentac2](http://www.nguyenvanquan7826.com/wp-content/uploads/2014/12/do-while.png)
 vd:(
-/#include <stdio.h>
+  /#include <stdio.h>
+  
  int main(){
+ 
     do {
         printf("khoi lenh duoc thuc hien\n");
     } while(5 > 8);
      
     return 0;
 }
+
 
 *chú ý*: : vòng lặp while thì có thể không thực hiện lệnh nào nếu ngay từ ban đầu biểu thức sai, còn lệnh do while thì sẽ thực hiện lệnh ít nhất 1 lần dù biểu thức có sai ngay từ đầu.
 
