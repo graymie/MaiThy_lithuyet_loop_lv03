@@ -14,6 +14,7 @@ ví dụ :
 ### cú pháp: ` while ( điều kiện) các lệnh cần lặp;`
 ### nguyên tắc
 ![nguyentac](http://www.nguyenvanquan7826.com/2014/12/12/lap-trinh-c-bai-5-cau-truc-vong-lap/)
+
 vd:
 ![VD2](https://gc0904g6.files.wordpress.com/2014/02/taitai.jpg)
 ![vd3](https://gc0904g6.files.wordpress.com/2014/02/123321.jpg)
